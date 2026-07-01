@@ -1,4 +1,4 @@
-# 🚀 AI Code Reviewer
+# AI Code Reviewer
 
 An AI-powered Code Reviewer built using the MERN Stack that helps developers and students analyze, improve, and optimize their source code using Artificial Intelligence.
 
@@ -6,9 +6,9 @@ The application supports multiple programming languages and provides intelligent
 
 ---
 
-## 📌 Features
+# Features
 
-### 🔐 User Authentication
+## User Authentication
 
 - User Registration
 - Secure Login
@@ -20,7 +20,7 @@ The application supports multiple programming languages and provides intelligent
 
 ---
 
-### 💻 AI Code Review
+## AI Code Review
 
 - Monaco Code Editor
 - Multiple Programming Languages
@@ -35,9 +35,9 @@ The application supports multiple programming languages and provides intelligent
 
 ---
 
-### 📊 Dual Analysis Mode
+### Dual Analysis Mode
 
-#### 🟢 Enhanced Analysis
+####  Enhanced Analysis
 
 Available for:
 
@@ -51,7 +51,7 @@ Uses language-specific validators before AI analysis.
 
 ---
 
-#### 🔵 AI Review Only
+####  AI Review Only
 
 Available for:
 
@@ -64,7 +64,7 @@ Provides intelligent static analysis without local compilation.
 
 ---
 
-### 📚 Review History
+###  Review History
 
 - Save Previous Reviews
 - View Review History
@@ -74,7 +74,7 @@ Provides intelligent static analysis without local compilation.
 
 ---
 
-### 🎨 User Interface
+###  User Interface
 
 - Responsive Design
 - Dark Mode
@@ -86,7 +86,7 @@ Provides intelligent static analysis without local compilation.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -164,8 +164,7 @@ AI-Code-Reviewer
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Code-Reviewer.git
-
+git clone https://github.com/dhru-1705/AI-Code-Reviewer
 cd AI-Code-Reviewer
 ```
 
